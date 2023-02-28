@@ -41,6 +41,7 @@ span {
     padding: 0.5rem 1rem;
     border-radius: 5px;  /*this rounds the corners of the box*/
     font-weight: bold;
+    position: absolute;
 }
 
 @media screen and (min-width: 800px) {
