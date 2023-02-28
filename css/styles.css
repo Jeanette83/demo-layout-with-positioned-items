@@ -43,7 +43,7 @@ span {
     font-weight: bold;
     /** Position the span over top of the image and take it out of the flow of the document **********/
     position: absolute;
-    /* the top, bottom left and right positions this**/
+    /* the top, bottom left and right positions this in relation to the viewport, UNLESS the parent container is a relatively positioned element**/
     top: 0;
     right: 0;
 }
