@@ -16,3 +16,8 @@ section p {
     margin-bottom: 10px;
     padding-bottom: 10px;
 }
+
+section h2 {
+    font-size: 50px;
+    color: #fff;
+}
