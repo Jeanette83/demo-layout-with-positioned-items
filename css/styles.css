@@ -30,4 +30,5 @@ section h2 {
 
 .gallery {
     display:flex;
+    flex-direction: column;
 }
