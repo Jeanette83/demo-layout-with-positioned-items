@@ -2,3 +2,7 @@ body {
     background-color: #192f5e;
     font-family: sans-serif;
 }
+
+section {
+    padding: 50px;
+}
