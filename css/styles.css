@@ -41,7 +41,15 @@ span {
     padding: 0.5rem 1rem;
     border-radius: 5px;  /*this rounds the corners of the box*/
     font-weight: bold;
+    /** Position the span over top of the image and take it out of the flow of the document **********/
     position: absolute;
+    /* the top, bottom left and right positions this**/
+    top: 0;
+    right: 0;
+}
+
+.thumbnail {
+    position: relative;
 }
 
 @media screen and (min-width: 800px) {
