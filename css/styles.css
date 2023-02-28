@@ -35,6 +35,12 @@ section h2 {
     align-items: center;
 }
 
+span {
+    background-color: #87a6ab;
+    color: #fff;
+    padding: 0.5rem 1rem;
+}
+
 @media screen and (min-width: 800px) {
     .gallery {
         flex-flow: row wrap;
